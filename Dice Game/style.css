@@ -1,0 +1,27 @@
+body{
+    background-color: #042326;
+
+}
+.body1{
+    
+    
+    color: #107361;
+    font-family: 'Chivo', sans-serif;
+    font-size: x-large;
+    height:max-content;
+}
+
+.postion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    padding: 20px;
+}
+footer{
+    color: #107361;
+}
+h2{
+    margin-left: 70px;
+}
